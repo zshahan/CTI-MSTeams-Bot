@@ -1,9 +1,9 @@
 name: Fetch-CTI
 
-on:
-  schedule:
-    - cron: '*/60 * * * *'
-  workflow_dispatch:
+#on:
+#  schedule:
+#    - cron: '*/60 * * * *'
+#  workflow_dispatch:
 
 jobs:
   CTI:
